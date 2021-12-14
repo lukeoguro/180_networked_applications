@@ -1,0 +1,1 @@
+SELECT trunc(4 * pi() * power(26.3, 2));
