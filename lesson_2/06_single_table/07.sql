@@ -1,0 +1,1 @@
+SELECT round(avg(wingspan), 1) AS avg, min(wingspan), max(wingspan) FROM birds;
