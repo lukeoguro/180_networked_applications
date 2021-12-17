@@ -1,0 +1,2 @@
+ALTER TABLE stars
+  ALTER name TYPE VARCHAR(50);
